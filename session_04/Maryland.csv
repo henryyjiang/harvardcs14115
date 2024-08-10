@@ -1,0 +1,25 @@
+county,avgcases,avgdeaths,cases,deaths
+Allegany County,1,0,7056,212
+Anne Arundel County,4,0,43978,665
+Baltimore City,6,1,53148,1252
+Baltimore County,5,1,65958,1682
+Calvert County,0,0,4239,86
+Caroline County,0,0,2352,30
+Carroll County,0,0,9528,254
+Cecil County,2,0,6345,152
+Charles County,1,0,10968,216
+Dorchester County,0,0,2851,65
+Frederick County,1,0,19837,342
+Garrett County,0,0,2044,65
+Harford County,3,0,16658,301
+Howard County,3,0,19332,255
+Kent County,1,0,1358,51
+Montgomery County,10,0,71190,1623
+Prince George's County,13,0,85537,1597
+Queen Anne's County,1,0,3010,51
+Somerset County,0,0,2625,40
+St. Mary's County,1,0,6063,132
+Talbot County,0,0,2184,44
+Washington County,1,0,14665,332
+Wicomico County,2,0,7731,174
+Worcester County,1,0,3697,106

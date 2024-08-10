@@ -1,0 +1,40 @@
+county,avgcases,avgdeaths,cases,deaths
+Adams County,3,0,2267,24
+Asotin County,2,0,1510,30
+Benton County,24,0,17901,230
+Chelan County,5,0,6949,71
+Clallam County,3,0,1446,12
+Clark County,19,0,25991,289
+Columbia County,0,0,133,6
+Cowlitz County,12,0,6692,92
+Douglas County,2,0,3710,23
+Ferry County,0,0,399,8
+Franklin County,10,0,12865,116
+Garfield County,0,0,133,5
+Grant County,6,0,9387,84
+Grays Harbor County,2,0,4588,76
+Island County,1,0,1873,29
+Jefferson County,1,0,449,4
+King County,61,1,112631,1657
+Kitsap County,12,0,8846,117
+Kittitas County,3,0,3348,36
+Klickitat County,1,0,887,10
+Lewis County,6,0,5337,77
+Lincoln County,1,0,676,12
+Mason County,2,0,2945,34
+Okanogan County,6,0,2803,43
+Pacific County,1,0,1007,14
+Pend Oreille County,1,0,831,9
+Pierce County,35,1,56999,646
+San Juan County,0,0,186,0
+Skagit County,4,0,6052,77
+Skamania County,0,0,391,1
+Snohomish County,43,1,40285,606
+Spokane County,35,1,46900,680
+Stevens County,2,0,2394,32
+Thurston County,18,0,11077,112
+Wahkiakum County,0,0,156,1
+Walla Walla County,15,0,5494,68
+Whatcom County,9,0,9923,103
+Whitman County,1,0,4340,50
+Yakima County,17,0,30739,451

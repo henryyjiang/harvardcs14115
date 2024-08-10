@@ -1,0 +1,73 @@
+county,avgcases,avgdeaths,cases,deaths
+Adams County,0,0,1968,15
+Ashland County,0,0,1402,15
+Barron County,1,0,6065,85
+Bayfield County,-1,0,1291,20
+Brown County,3,0,35704,253
+Buffalo County,0,0,1418,7
+Burnett County,0,0,1590,25
+Calumet County,0,0,6534,51
+Chippewa County,1,0,7714,95
+Clark County,1,0,3704,60
+Columbia County,0,0,5924,59
+Crawford County,0,0,1803,19
+Dane County,10,0,46803,315
+Dodge County,0,0,12949,177
+Door County,0,0,2852,25
+Douglas County,1,0,5008,44
+Dunn County,3,0,5131,33
+Eau Claire County,1,0,11991,110
+Florence County,0,0,506,13
+Fond du Lac County,1,0,13888,126
+Forest County,0,0,1047,23
+Grant County,1,0,5760,87
+Green County,0,0,3659,19
+Green Lake County,0,0,2064,19
+Iowa County,0,0,2150,13
+Iron County,0,0,706,21
+Jackson County,0,0,2721,27
+Jefferson County,1,0,9690,111
+Juneau County,1,0,3352,23
+Kenosha County,4,0,18828,320
+Kewaunee County,0,0,2729,27
+La Crosse County,1,0,13552,89
+Lafayette County,0,0,1728,9
+Langlade County,1,0,2221,35
+Lincoln County,0,0,3290,66
+Manitowoc County,0,0,8929,74
+Marathon County,2,0,16433,190
+Marinette County,0,0,4713,67
+Marquette County,0,0,1610,23
+Menominee County,0,0,813,11
+Milwaukee County,18,1,117884,1379
+Monroe County,1,0,4755,44
+Oconto County,1,0,5118,59
+Oneida County,0,0,3825,72
+Outagamie County,3,0,23905,223
+Ozaukee County,0,0,9297,95
+Pepin County,0,0,892,7
+Pierce County,0,0,4997,37
+Polk County,0,0,4835,54
+Portage County,0,0,7441,70
+Price County,0,0,1348,7
+Racine County,3,0,25348,370
+Richland County,1,0,1407,16
+Rock County,1,0,18387,184
+Rusk County,1,0,1464,22
+Sauk County,1,0,6257,51
+Sawyer County,0,0,1855,27
+Shawano County,1,0,5344,73
+Sheboygan County,2,0,14827,151
+St. Croix County,2,0,9840,61
+Taylor County,0,0,2140,26
+Trempealeau County,0,0,3669,45
+Vernon County,0,0,2025,40
+Vilas County,0,0,2439,42
+Walworth County,1,0,12511,142
+Washburn County,0,0,1595,22
+Washington County,2,0,16927,172
+Waukesha County,3,1,49230,573
+Waupaca County,1,0,6119,123
+Waushara County,1,0,2589,35
+Winnebago County,2,0,21508,201
+Wood County,1,0,7722,90

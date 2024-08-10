@@ -1,0 +1,134 @@
+county,avgcases,avgdeaths,cases,deaths
+Accomack County,0,0,2872,45
+Albemarle County,2,0,5830,85
+"Alexandria, City of",2,0,11887,140
+Alleghany County,1,0,1381,50
+Amelia County,0,0,926,36
+Amherst County,0,0,2987,40
+Appomattox County,0,0,1625,26
+Arlington County,1,0,15304,258
+Augusta County,1,0,5988,79
+Bath County,0,0,274,11
+Bedford County,3,0,6681,109
+Bland County,0,0,689,10
+Botetourt County,1,0,2607,38
+"Bristol, City of",1,0,1587,37
+Brunswick County,0,0,1339,25
+Buchanan County,2,0,1532,45
+Buckingham County,0,0,2140,32
+"Buena Vista, City of",1,0,936,22
+Campbell County,48,1,4983,100
+Caroline County,0,0,2698,40
+Carroll County,0,0,2719,79
+Charles City County,0,0,509,16
+Charlotte County,0,0,872,21
+"Charlottesville, City of",0,0,4038,57
+"Chesapeake, City of",5,0,21264,307
+Chesterfield County,5,0,28293,452
+Clarke County,2,0,1005,21
+"Colonial Heights, City of",0,0,1718,62
+"Covington, City of",0,0,611,14
+Craig County,0,0,325,6
+Culpeper County,2,0,4727,67
+Cumberland County,0,0,517,10
+"Danville, City of",1,0,4497,141
+Dickenson County,4,0,992,18
+Dinwiddie County,2,0,2159,46
+"Emporia, City of",1,0,680,42
+Essex County,1,0,786,10
+Fairfax County,14,0,77162,1115
+"Fairfax, City of",0,0,573,20
+"Falls Church, City of",0,0,430,8
+Fauquier County,2,0,4781,69
+Floyd County,0,0,885,22
+Fluvanna County,0,0,1926,20
+Franklin County,1,0,4111,81
+"Franklin, City of",0,0,1142,33
+Frederick County,2,0,8112,102
+"Fredericksburg, City of",1,0,2156,25
+"Galax, City of",0,0,1174,53
+Giles County,1,0,1334,22
+Gloucester County,1,0,2278,49
+Goochland County,1,0,1479,23
+Grayson County,1,0,1513,38
+Greene County,0,0,1299,18
+Greensville County,-1,0,1582,26
+Halifax County,0,0,2840,78
+"Hampton, City of",2,0,10731,182
+Hanover County,3,0,8260,166
+"Harrisonburg, City of",0,0,6533,95
+Henrico County,21,0,25847,635
+Henry County,0,0,4673,124
+Highland County,0,0,110,1
+"Hopewell, City of",7,0,2704,79
+Isle of Wight County,1,0,3177,70
+James City County,2,0,4679,72
+King George County,-1,0,1734,20
+King William County,0,0,1250,14
+King and Queen County,1,0,416,9
+Lancaster County,0,0,719,17
+Lee County,0,0,2434,49
+"Lexington, City of",0,0,1206,33
+Loudoun County,2,0,28099,283
+Louisa County,1,0,2023,34
+Lunenburg County,0,0,790,15
+"Lynchburg, City of",-46,-1,7481,147
+Madison County,2,0,613,14
+"Manassas Park, City of",0,0,1221,11
+"Manassas, City of",0,0,4315,48
+"Martinsville, City of",0,0,1629,79
+Mathews County,0,0,604,12
+Mecklenburg County,1,0,2356,66
+Middlesex County,0,0,575,20
+Montgomery County,1,0,9430,98
+Nelson County,0,0,892,13
+New Kent County,0,0,1526,19
+"Newport News, City of",5,0,14371,239
+"Norfolk, City of",5,0,18053,272
+Northampton County,0,0,809,36
+Northumberland County,0,0,747,20
+"Norton, City of",0,0,289,7
+Nottoway County,0,0,1927,49
+Orange County,1,0,2246,40
+Page County,1,0,2130,59
+Patrick County,1,0,1404,43
+"Petersburg, City of",3,0,3952,87
+Pittsylvania County,3,0,5633,83
+"Poquoson, City of",1,0,900,18
+"Portsmouth, City of",3,0,9213,204
+Powhatan County,0,0,1926,17
+Prince Edward County,0,0,2175,35
+Prince George County,-2,0,3627,32
+Prince William County,10,0,45803,506
+Pulaski County,2,0,2725,62
+"Radford, City of",0,0,2179,19
+Rappahannock County,1,0,355,2
+Richmond County,-1,0,1500,16
+"Richmond, City of",-6,0,17120,272
+Roanoke County,2,0,8436,147
+"Roanoke, City of",3,0,8615,199
+Rockbridge County,1,0,1569,48
+Rockingham County,2,0,6885,112
+Russell County,0,0,2311,40
+"Salem, City of",0,0,2217,50
+Scott County,1,0,1872,60
+Shenandoah County,1,0,4303,134
+Smyth County,1,0,2985,96
+Southampton County,1,0,1989,57
+Spotsylvania County,3,0,10205,125
+Stafford County,6,0,11545,82
+"Staunton, City of",0,0,2529,70
+"Suffolk, City of",1,0,8007,192
+Surry County,0,0,424,9
+Sussex County,0,0,1204,23
+Tazewell County,2,0,3759,75
+"Virginia Beach, City of",9,0,36439,416
+Warren County,1,0,3139,61
+Washington County,2,0,5022,111
+"Waynesboro, City of",1,0,2403,38
+Westmoreland County,0,0,1312,27
+"Williamsburg, City of",0,0,769,13
+"Winchester, City of",1,0,2943,49
+Wise County,0,0,3274,103
+Wythe County,2,0,2738,81
+York County,0,0,3804,59

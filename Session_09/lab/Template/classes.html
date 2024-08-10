@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Class Method</h2>
+
+<p>How to define and use a Class method.</p>
+
+<p id="demo"></p>
+<button onclick="day.NextDay()">next day</button>
+
+<script>
+  let day_counter = 0;
+  let days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+
+  class Day {
+    constructor(name) {
+      this.name = name
+
+    }
+    NextDay() {
+      for (let i=0; i < days.length;i++) {
+        if (this.name == days[i]) {
+          day_counter = i
+        }
+      }
+      if (day_counter < 6) {
+        day_counter += 1
+      } else {
+        day_counter = 0
+      }
+      this.name = days[day_counter]
+      document.getElementById("demo").innerHTML =
+              "It is " + this.name + ".";
+    }
+  }
+
+  let day = new Day('Sunday');
+  document.getElementById("demo").innerHTML =
+          "It is " + day.name + ".";
+
+</script>
+
+</body>
+</html>

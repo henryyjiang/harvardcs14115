@@ -1,0 +1,65 @@
+county,avgcases,avgdeaths,cases,deaths
+Adams County,28,1,60926,718
+Alamosa County,1,0,1726,37
+Arapahoe County,38,-1,62849,759
+Archuleta County,3,0,1042,3
+Baca County,0,0,323,4
+Bent County,0,0,1545,22
+Boulder County,11,0,24008,235
+"Broomfield, City and County of",3,0,5002,76
+Chaffee County,2,0,1773,25
+Cheyenne County,0,0,130,6
+Clear Creek County,0,0,477,3
+Conejos County,1,0,738,21
+Costilla County,0,0,251,5
+Crowley County,0,0,2213,17
+Custer County,0,0,227,2
+Delta County,4,0,2943,66
+"Denver, City and County of",29,0,74392,843
+Dolores County,0,0,130,1
+Douglas County,19,0,30538,247
+Eagle County,2,0,6360,23
+El Paso County,66,1,73451,875
+Elbert County,0,0,1886,14
+Fremont County,3,0,6553,63
+Garfield County,9,0,6192,50
+Gilpin County,1,0,285,3
+Grand County,0,0,1507,7
+Gunnison County,2,0,1397,6
+Hinsdale County,0,0,20,0
+Huerfano County,0,0,436,17
+Jackson County,0,0,67,0
+Jefferson County,29,1,48950,805
+Kiowa County,0,0,95,3
+Kit Carson County,0,0,647,11
+La Plata County,5,0,4151,41
+Lake County,0,0,835,1
+Larimer County,18,0,27728,248
+Las Animas County,1,0,1171,14
+Lincoln County,0,0,1035,4
+Logan County,2,0,4061,69
+Mesa County,48,1,17246,251
+Mineral County,0,0,93,1
+Moffat County,7,0,1031,26
+Montezuma County,1,0,2091,25
+Montrose County,5,0,3744,65
+Morgan County,3,0,2754,96
+Otero County,1,0,2087,68
+Ouray County,0,0,294,3
+Park County,1,0,832,5
+Phillips County,0,0,400,13
+Pitkin County,2,0,2622,4
+Prowers County,0,0,1278,22
+Pueblo County,9,0,19599,418
+Rio Blanco County,2,0,623,5
+Rio Grande County,2,0,907,16
+Routt County,2,0,2290,21
+Saguache County,3,0,456,5
+San Juan County,0,0,47,0
+San Miguel County,0,0,923,1
+Sedgwick County,0,0,236,3
+Summit County,2,0,3771,8
+Teller County,1,0,1921,18
+Washington County,0,0,473,13
+Weld County,26,0,33498,351
+Yuma County,0,0,969,17
